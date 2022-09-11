@@ -89,7 +89,7 @@ nav .contact-us a:hover{
     transition: .3s ease-in-out;
 }
 .banner{
-    background: url(index-banner.jpg) no-repeat center;
+    background: url(../images/index-banner.jpg) no-repeat center;
     /* height:800px; */
     padding:300px 0 250px 0;
     /* -webkit-background-size: cover; */
